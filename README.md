@@ -1,9 +1,8 @@
 # Flight_prices_in_US
---
 
 ● Description: 
 --
-We analysis the factors affecting flights prices
+The aim of this project is to understand how different factors—like the airlines, travel class, number of stops, and day of the week affect flight prices. By analyzing these factors, we aim to help travelers & decision makers to make the best decisions.
 
 ● Dataset:
 --
