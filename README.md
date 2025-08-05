@@ -11,12 +11,12 @@ The data from (https://www.kaggle.com/datasets/dilwong/flightprices/data)
 ● Analysis: 
 --
 Summary of your analysis and key findings.
+## Results and evaluation
 
-● How to Run: 
---
-Instructions for running your code.
+## Limitations
 
 ● Dependencies: 
 --
-List of Python libraries required (pandas, matplotlib, isodate, datetime, parse_duration, seaborn).
+- Data Manipulation: pandas, isodate, datetime and parse_duration.
+- Data Visualization: seaborn and matplotlib
 
