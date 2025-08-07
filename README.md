@@ -35,6 +35,10 @@ We don't have missing data in our choosen columns. Only in 'totalTravelDistance'
 --
 Flight prices are shaped by multiple factors, including time of day, airlines, number of stops, distance, duration, and travel class. Understanding these dynamics can help travelers make smarter booking decisions and enable airlines to optimize pricing strategies more effectively.
 
+● Recommendation: 
+--
+Future data collection should include actual booking records, cover a full year to capture seasonal variations, and incorporate detailed booking information. This will improve the accuracy and depth of pricing analysis.
+
 ● Dependencies: 
 --
 - Data Manipulation: pandas, isodate, datetime and parse_duration.
