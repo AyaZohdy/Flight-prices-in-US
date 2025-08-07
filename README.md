@@ -12,8 +12,8 @@ The data from (https://www.kaggle.com/datasets/dilwong/flightprices/data)
 
 ● Analysis: 
 --
-1. Columns
-   
+1. The Columns of the dataset
+
 ['legId', 'searchDate', 'flightDate', 'startingAirport', 'destinationAirport', 'fareBasisCode', 'travelDuration', 'elapsedDays', 'isBasicEconomy', 'isRefundable', 'isNonStop', 'baseFare', 'totalFare', 'seatsRemaining', 'totalTravelDistance','segmentsDepartureTimeEpochSeconds', 'segmentsDepartureTimeRaw', 'segmentsArrivalTimeEpochSeconds', 'segmentsArrivalTimeRaw', 'segmentsArrivalAirportCode', 'segmentsDepartureAirportCode', 'segmentsAirlineName', 'segmentsAirlineCode','segmentsEquipmentDescription', 'segmentsDurationInSeconds', 'segmentsDistance', 'segmentsCabinCode']
 
 2. Columns we used
@@ -31,7 +31,8 @@ We don't have missing data in our choosen columns. Only in 'totalTravelDistance'
     3.	In this data the duration (time of flight) and distance affect the price of ticket positively but not obviously and this information can give the decision makers hint that there are different factors affecting the prices like time and stops.
     4.	Flight class and the number of stops also affect the prices. This may be due to the destination and the duration that impact on flight price.
 
-- Conclusion
+# - Conclusion:
+--
 Flight prices are shaped by multiple factors, including time of day, airlines, number of stops, distance, duration, and travel class. Understanding these dynamics can help travelers make smarter booking decisions and enable airlines to optimize pricing strategies more effectively.
 
 ● Dependencies: 
